@@ -1,0 +1,9 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/moviology/backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/moviology/frontend.git
+[submodule "arduino"]
+	path = arduino
+	url = https://github.com/moviology/arduino.git
